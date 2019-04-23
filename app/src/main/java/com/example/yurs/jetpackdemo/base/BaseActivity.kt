@@ -18,4 +18,6 @@ import android.view.View
 abstract class BaseActivity : AppCompatActivity() {
 
 
+
+
 }
